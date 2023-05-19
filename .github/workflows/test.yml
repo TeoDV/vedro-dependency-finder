@@ -25,5 +25,5 @@ jobs:
       run: make install
     - name: Lint
       run: make lint
-    - name: Test step
+    - name: Test
       run: make coverage
