@@ -20,7 +20,7 @@ setup(
     author="Daria Cherepakhina",
     author_email="da19sha96@yandex.ru",
     python_requires=">=3.8",
-    url="https://github.com/TeoDV/vedro-dependency-finder",
+    url="https://github.com/TeoDV/vedro-dependency-finder/",
     packages=find_packages(exclude=("tests",)),
     package_data={"vedro_dependency_finder": ["py.typed"]},
     install_requires=find_required(),
